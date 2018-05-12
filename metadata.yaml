@@ -1,0 +1,39 @@
+_repo: Honor--A-Play-in-Four-Acts_34357
+_version: 0.1.0
+alternative_title: Ehre. English
+contributor:
+  translator:
+    agent_name: Baukhage, Hilmar R. (Hilmar Robert)
+    alias: Baukhage, Hilmar Robert
+    birthdate: 1889
+    gutenberg_agent_id: '33011'
+    url: http://www.gutenberg.org/2009/agents/33011
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sudermann, Hermann
+    aliases:
+    - Sudermann, Herman
+    - Sunderman, Hermann
+    - Sudermann, H. (Hermann)
+    birthdate: 1857
+    deathdate: 1928
+    gutenberg_agent_id: '2769'
+    url: http://www.gutenberg.org/2009/agents/2769
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
+description: ''
+gutenberg_issued: '2010-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- Translations into English'
+- !lcc 'PT'
+title: 'Honor: A Play in Four Acts'
+url: http://www.gutenberg.org/ebooks/34357
